@@ -1,0 +1,15 @@
+.blog-details-main{
+    padding:0rem 1rem;
+}
+
+.back-arrow{
+    margin: 1rem;
+    display: block;
+    width: 100%;
+}
+
+.blog-details-main p{
+    margin-top: 1rem;
+    font-size: 18px;
+    line-height: 2px;
+}

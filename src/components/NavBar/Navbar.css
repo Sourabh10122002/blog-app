@@ -1,0 +1,29 @@
+.header{
+    padding: 1rem 4rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow:0 0 4px 1px grey;
+}
+
+
+.header-left, .header-right{
+    display: inline-block;
+}
+
+.header-left a{
+    color: red;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.header-right{
+    display: flex;
+    gap: 0.5rem;
+}
+
+.header-right a {
+    text-decoration: none;
+    color: black;
+}
