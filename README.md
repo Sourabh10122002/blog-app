@@ -50,7 +50,7 @@ This is a blog application built with React, Firebase, and Redux Toolkit. The ap
     The application will run locally on [http://localhost:3000](http://localhost:3000).
 
 5. **To Deploy:**
-    - Deployed link:- https://blog-app-ruddy-tau.vercel.app/
+    - Deployed link:- https://blog-app-khaki-one.vercel.app/
 
 ### Additional Notes
 - The application uses Firebase for authentication and Redux Toolkit for managing state.
